@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+#decreaseBtn{
+    background-color: #F54B3E;
+    color: white;
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+#resetBtn {
+    background-color: gray;
+    color: white;
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+#increaseBtn {
+    background-color: #15924F;
+    color: white;
+    height: 40px;
+    width: 80px;
+    border-radius: 15px;
+    font-size: 15px;
+}
